@@ -1,0 +1,10 @@
+Red:#ff0000
+blue:#0000ff
+yellow:#ffff00
+white:#ffffff
+black:#000000
+lite pink:	#ffe6e6
+dark brown:	#1a0000
+brown:#660000
+purple:#8000ff
+skyblue:#33cccc
